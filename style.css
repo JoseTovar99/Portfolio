@@ -95,9 +95,6 @@ p{
 .card2{
   background-image: url(finishedpic.png);
 }
-.card3{
-  background-image: url(cube.JPG);
-}
 .card4{
   background-image: url(FinalRender2.png);
 }
@@ -115,6 +112,9 @@ p{
 }
 .card9{
   background-image: url(TeapotVase1.png);
+}
+.card10{
+  background-image: url(UpdateSpace.JPG);
 }
 .card:hover{
   transform: translateY(-10px);
